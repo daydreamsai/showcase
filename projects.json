@@ -69,5 +69,17 @@
     "discord": "",
     "image": "https://raw.githubusercontent.com/frontboat/showcase/main/images/focgbois/focgbois.webp",
     "featured": false
+  },
+  {
+    "id": "vega",
+    "name": "VEGA AI Trading Agent",
+    "description": "Vega is an autonomous AI trading agent for GMX perpetual futures using synthdata predictive intelligence.",
+    "category": "Trading",
+    "github": "https://github.com/djizus/agent-gmx",
+    "website": "https://vega-ai-gmx-dashboard.vercel.app/",
+    "twitter": "https://x.com/zKorp_",
+    "discord": "https://discord.gg/7d83ZHTFJU",
+    "image": "https://raw.githubusercontent.com/djizus/showcase/main/images/vega/vega_logo.png",
+    "featured": false
   }
 ]
