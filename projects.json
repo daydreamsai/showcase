@@ -81,5 +81,17 @@
     "discord": "https://discord.gg/7d83ZHTFJU",
     "image": "https://raw.githubusercontent.com/djizus/showcase/main/images/vega/vega_logo.png",
     "featured": false
-  }
+  },
+  {
+  "id": "lucid",
+  "name": "Lucid Signal",
+  "description": "Discover profitable crypto opportunities with AI-powered signals for funding arbitrage, memecoins, and DeFi yields",
+  "category": "Defi",
+  "github": "https://github.com/MakindeAhmed2110/lucid-signal",
+  "website": "https://lucidapp.xyz",
+  "twitter": "https://x.com/use_lucid",
+  "discord": "",
+  "image": "https://raw.githubusercontent.com/MakindeAhmed2110/showcase/main/images/lucid/lucid_signal.jpg",
+  "featured": false
+}
 ]
